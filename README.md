@@ -11,6 +11,9 @@ The **Structure** of a knowledge graph involves a backend storage in the form of
 
 The fundamental building block is a **triplet**, which comprises of a **subject**, **predicate** and an **object**. Subjects and Objects act as entities while the predicate describes the relationship between them.
 
+<img src="https://github.com/shazilahmed17/Raw-text-To-Knowledge-Graph/blob/main/8.png" alt="Alt Text" width="1000" height="700">
+
+
 This project was aimed at finding a way of extracting useful information from raw, unstructured text documents and converting it to triplets in order to generate a knowledge graph. Our proposed approach revolves around various **Natural Langugae Processing** techniques such as **Extractive Text Summarization**, **Coreference Resolution**, **Named Entity Recognition**, **Part of Speech Tagging** and much more.
 
 Go throught the paper for more details !!
